@@ -6,7 +6,7 @@
 	<artifactId>java-war-deploy-example</artifactId>
 	<packaging>jar</packaging>
 	<version>0.1-SNAPSHOT</version>
-	<name>Demo for deploying WAR and JAR files</name>
+	
 
 	<build>
   <plugins>
@@ -32,7 +32,7 @@
 	</plugin>
   </plugins>
  </build>
-  <name>test</name>
+  <name>Demo</name>
   <url>http://maven.apache.org</url>
 
   <properties>
